@@ -1,3 +1,7 @@
 title: Kay Walking In Daylight
 description: Please repaint the cross-walk.  They don't belong where they've been placed.
-theme: jekyll-theme-dinky
+
+plugins:
+   - jekyll-remote-theme
+
+ remote_theme: vszhub/not-pure-poole
